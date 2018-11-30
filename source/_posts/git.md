@@ -5,6 +5,8 @@ tags:
 - git
 ---
 
+git是一个分布式版本控制软件，最初由林纳斯·托瓦兹创作，于2005年以GPL发布。最初目的是为更好地管理Linux内核开发而设计。应注意的是，这与GNU Interactive Tools有所不同。 git最初的开发动力来自于BitKeeper和Monotone。
+
 <!-- more -->
 
 ### 创建版本库
